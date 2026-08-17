@@ -11,6 +11,6 @@ import java.time.LocalDate;
 @NoArgsConstructor
 public class UserModel {
     private int code;
-    private String username;
+    private String userName;
     private LocalDate birthday;
 }
